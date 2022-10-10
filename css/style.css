@@ -1,0 +1,39 @@
+body{
+    background-color: #6F73D2;
+}
+
+#home{
+    background-color: #310E95;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+   padding-top: 200px;
+}
+
+h2{
+    font-size: 56px;
+    line-height: 10px;
+    font-family: poppinsmedium;
+    color:white;
+}
+
+p{
+    line-height: 20px;
+    max-width: 600px;
+    font-family: poppinslight;
+    color:white;
+}
+
+#sobre{
+    background-color: #33128F;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 10px;
+   
+}
+
+
+
